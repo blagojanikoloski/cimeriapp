@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj": {}
+    "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
+    "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj",
+        "projectUniqueName": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj",
         "projectName": "Cimeri.Domain",
-        "projectPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj",
-        "packagesPath": "C:\\Users\\Setec313\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\obj\\",
+        "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj",
+        "packagesPath": "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Setec313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Blagoja Nikoloski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,24 +73,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj": {
+    "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
+        "projectUniqueName": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
         "projectName": "Cimeri.Repository",
-        "projectPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
-        "packagesPath": "C:\\Users\\Setec313\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\obj\\",
+        "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
+        "packagesPath": "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Setec313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Blagoja Nikoloski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
-                "projectPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj"
+              "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
+                "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj"
               }
             }
           }
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,24 +146,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj": {
+    "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj",
+        "projectUniqueName": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj",
         "projectName": "Cimeri.Service",
-        "projectPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj",
-        "packagesPath": "C:\\Users\\Setec313\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Service\\obj\\",
+        "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Service\\Cimeri.Service.csproj",
+        "packagesPath": "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Setec313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Blagoja Nikoloski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,8 +178,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj": {
-                "projectPath": "C:\\Users\\Setec313\\Desktop\\CIMERINODOCKER\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj"
+              "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj": {
+                "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj"
               }
             }
           }
@@ -197,7 +199,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -206,7 +209,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

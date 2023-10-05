@@ -22,3 +22,15 @@ C:\Users\Setec313\Desktop\CIMERINODOCKER\Cimeri\Cimeri.Domain\obj\Debug\net6.0\C
 C:\Users\Setec313\Desktop\CIMERINODOCKER\Cimeri\Cimeri.Domain\obj\Debug\net6.0\refint\Cimeri.Domain.dll
 C:\Users\Setec313\Desktop\CIMERINODOCKER\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.pdb
 C:\Users\Setec313\Desktop\CIMERINODOCKER\Cimeri\Cimeri.Domain\obj\Debug\net6.0\ref\Cimeri.Domain.dll
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.deps.json
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.dll
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.pdb
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.csproj.AssemblyReference.cache
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.AssemblyInfoInputs.cache
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.AssemblyInfo.cs
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.csproj.CoreCompileInputs.cache
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.dll
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\refint\Cimeri.Domain.dll
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.pdb
+D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\ref\Cimeri.Domain.dll
