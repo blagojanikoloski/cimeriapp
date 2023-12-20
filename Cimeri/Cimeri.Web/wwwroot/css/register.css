@@ -576,13 +576,7 @@
         justify-content: center;
     }
 
-    .register-desktop-menu {
-        display: none;
-    }
 
-    .register-burger-menu {
-        display: flex;
-    }
 
     .register-icon02 {
         fill: white;
@@ -706,9 +700,7 @@
         flex-direction: column;
     }
 
-    .register-mobile-menu {
-        padding: 16px;
-    }
+
 
     .register-button-container {
         width: 100%;
@@ -781,6 +773,11 @@
         color: var(--dl-color-gray-900);
         font-size: 14px;
         line-height: 21px;
+    }
+
+    .register-desktop-menu {
+        font-size: 10px;
+        padding: 18px;
     }
 }
 .form-container {

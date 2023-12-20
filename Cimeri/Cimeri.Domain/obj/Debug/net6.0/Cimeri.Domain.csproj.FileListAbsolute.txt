@@ -34,3 +34,15 @@ D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.dll
 D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\refint\Cimeri.Domain.dll
 D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.pdb
 D:\Test\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\ref\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.deps.json
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\bin\Debug\net6.0\Cimeri.Domain.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.csproj.AssemblyReference.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.AssemblyInfoInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.AssemblyInfo.cs
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\refint\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\Cimeri.Domain.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Domain\obj\Debug\net6.0\ref\Cimeri.Domain.dll

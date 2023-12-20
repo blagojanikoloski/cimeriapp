@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkgsEo++wrtHe9g9QUCH6mncImv8XcMD3xbAPg2Au00nHAfGnqE0UyG2EclR4yZY2DVG5tbXTrZ80NkvClRcnA==",
+  "dgSpecHash": "lm4D3pbpZlkjpu0YZMnibCgmccurhIgK/yoQG6KFlNPGrUe+GdrVoQlcVgLr3OokjqeNZf8ylttucIxlMorxIg==",
   "success": true,
-  "projectFilePath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\Cimeri.Web.csproj",
+  "projectFilePath": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\Cimeri.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.18\\microsoft.aspnetcore.cryptography.internal.6.0.18.nupkg.sha512",

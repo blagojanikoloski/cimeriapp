@@ -691,12 +691,7 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
-  .edit-cimer-post-desktop-menu {
-    display: none;
-  }
-  .edit-cimer-post-burger-menu {
-    display: flex;
-  }
+
   .edit-cimer-post-icon02 {
     fill: white;
   }
@@ -772,9 +767,7 @@
   }
 }
 @media(max-width: 479px) {
-  .edit-cimer-post-mobile-menu {
-    padding: 16px;
-  }
+
   .edit-cimer-post-button-container {
     width: 100%;
   }
@@ -797,4 +790,9 @@
     font-size: 30px;
     line-height: 36px;
   }
+
+    .edit-cimer-post-desktop-menu {
+        font-size: 10px;
+        padding: 18px;
+    }
 }

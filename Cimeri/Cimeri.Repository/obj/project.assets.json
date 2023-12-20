@@ -2111,11 +2111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
       "projectName": "Cimeri.Repository",
-      "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
+      "projectPath": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Repository\\Cimeri.Repository.csproj",
       "packagesPath": "C:\\Users\\Blagoja Nikoloski\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2136,8 +2136,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
-              "projectPath": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj"
+            "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj": {
+              "projectPath": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Domain\\Cimeri.Domain.csproj"
             }
           }
         }

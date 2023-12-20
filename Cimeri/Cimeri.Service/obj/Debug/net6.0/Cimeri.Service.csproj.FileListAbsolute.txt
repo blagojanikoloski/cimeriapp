@@ -49,3 +49,20 @@ D:\Test\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.dll
 D:\Test\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\refint\Cimeri.Service.dll
 D:\Test\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.pdb
 D:\Test\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\ref\Cimeri.Service.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Service.deps.json
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Service.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Service.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Repository.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\bin\Debug\net6.0\Cimeri.Domain.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.csproj.AssemblyReference.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.AssemblyInfoInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.AssemblyInfo.cs
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.csproj.CopyComplete
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\refint\Cimeri.Service.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\ref\Cimeri.Service.dll

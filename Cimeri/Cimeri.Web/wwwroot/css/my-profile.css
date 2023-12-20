@@ -464,12 +464,7 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
-  .my-profile-desktop-menu {
-    display: none;
-  }
-  .my-profile-burger-menu {
-    display: flex;
-  }
+
   .my-profile-icon02 {
     fill: white;
   }
@@ -553,9 +548,7 @@
   }
 }
 @media(max-width: 479px) {
-  .my-profile-mobile-menu {
-    padding: 16px;
-  }
+
   .my-profile-button-container {
     width: 100%;
   }
@@ -571,6 +564,11 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
+
+    .my-profile-desktop-menu {
+        font-size: 10px;
+        padding: 18px;
+    }
 }
 .home-image2 {
     width: 100px;

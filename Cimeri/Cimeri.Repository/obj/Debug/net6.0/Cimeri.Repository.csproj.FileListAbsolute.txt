@@ -43,3 +43,18 @@ D:\Test\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.dl
 D:\Test\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\refint\Cimeri.Repository.dll
 D:\Test\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.pdb
 D:\Test\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\ref\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\bin\Debug\net6.0\Cimeri.Repository.deps.json
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\bin\Debug\net6.0\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\bin\Debug\net6.0\Cimeri.Repository.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\bin\Debug\net6.0\Cimeri.Domain.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\bin\Debug\net6.0\Cimeri.Domain.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.csproj.AssemblyReference.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.AssemblyInfoInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.AssemblyInfo.cs
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.csproj.CopyComplete
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\refint\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.pdb
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\ref\Cimeri.Repository.dll

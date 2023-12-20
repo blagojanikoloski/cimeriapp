@@ -500,12 +500,7 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
-  .home-desktop-menu {
-    display: none;
-  }
-  .home-burger-menu {
-    display: flex;
-  }
+
   .home-icon02 {
     fill: white;
   }
@@ -619,9 +614,7 @@
   }
 }
 @media(max-width: 479px) {
-  .home-mobile-menu {
-    padding: 16px;
-  }
+
   .home-button-container {
     width: 100%;
   }
@@ -665,4 +658,9 @@
   .home-content2 {
     gap: var(--dl-space-space-twounits);
   }
+
+    .home-desktop-menu {
+        font-size: 10px;
+        padding: 18px;
+    }
 }

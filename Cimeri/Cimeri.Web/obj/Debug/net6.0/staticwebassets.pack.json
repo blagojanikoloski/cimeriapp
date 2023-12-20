@@ -1,347 +1,347 @@
 {
   "Files": [
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cimeri.Web.bundle.scp.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cimeri.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Cimeri.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\cimer-list.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\cimer-list.css",
       "PackagePath": "staticwebassets\\css\\cimer-list.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\cimer-post.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\cimer-post.css",
       "PackagePath": "staticwebassets\\css\\cimer-post.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card2.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card2.css",
       "PackagePath": "staticwebassets\\css\\components\\feature-card2.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card2.html",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card2.html",
       "PackagePath": "staticwebassets\\css\\components\\feature-card2.html"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card3.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card3.css",
       "PackagePath": "staticwebassets\\css\\components\\feature-card3.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card3.html",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\feature-card3.html",
       "PackagePath": "staticwebassets\\css\\components\\feature-card3.html"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\section-numeral.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\section-numeral.css",
       "PackagePath": "staticwebassets\\css\\components\\section-numeral.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\section-numeral.html",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\components\\section-numeral.html",
       "PackagePath": "staticwebassets\\css\\components\\section-numeral.html"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\edit-cimer-post.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\edit-cimer-post.css",
       "PackagePath": "staticwebassets\\css\\edit-cimer-post.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\my-profile.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\my-profile.css",
       "PackagePath": "staticwebassets\\css\\my-profile.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\package.json",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\package.json",
       "PackagePath": "staticwebassets\\css\\package.json"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\c-grey-200w.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\c-grey-200w.png",
       "PackagePath": "staticwebassets\\css\\public\\c-grey-200w.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\c-white-200w.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\c-white-200w.png",
       "PackagePath": "staticwebassets\\css\\public\\c-white-200w.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\cimeri-200h.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\cimeri-200h.png",
       "PackagePath": "staticwebassets\\css\\public\\cimeri-200h.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\cimeri-white-200h.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\cimeri-white-200h.png",
       "PackagePath": "staticwebassets\\css\\public\\cimeri-white-200h.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\grainy-1500w.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\grainy-1500w.png",
       "PackagePath": "staticwebassets\\css\\public\\grainy-1500w.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\instagram-200h.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\instagram-200h.png",
       "PackagePath": "staticwebassets\\css\\public\\instagram-200h.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\landing-page-1-700w.jpg",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\landing-page-1-700w.jpg",
       "PackagePath": "staticwebassets\\css\\public\\landing-page-1-700w.jpg"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\landing-page-2-700h.jpg",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\landing-page-2-700h.jpg",
       "PackagePath": "staticwebassets\\css\\public\\landing-page-2-700h.jpg"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\linkedin-200h.png",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\linkedin-200h.png",
       "PackagePath": "staticwebassets\\css\\public\\linkedin-200h.png"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\quote-background.svg",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\public\\quote-background.svg",
       "PackagePath": "staticwebassets\\css\\public\\quote-background.svg"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\register.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\register.css",
       "PackagePath": "staticwebassets\\css\\register.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Test\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Blagoja Nikoloski\\Desktop\\cimeri\\cimeriapp\\Cimeri\\Cimeri.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
