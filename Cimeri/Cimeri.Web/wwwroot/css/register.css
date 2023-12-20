@@ -38,6 +38,7 @@
     width: 59px;
     height: 89px;
     object-fit: cover;
+    margin-right: 5px;
 }
 
 .register-desktop-menu {
@@ -690,6 +691,15 @@
         gap: var(--dl-space-space-twounits);
     }
 }
+
+
+@media(max-width: 520px) {
+
+    .register-image {
+        display: none;
+    }
+}
+
 
 @media(max-width: 479px) {
     .register-hero {

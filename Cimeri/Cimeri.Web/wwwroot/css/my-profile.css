@@ -127,9 +127,10 @@
   justify-content: space-between;
 }
 .my-profile-image {
-  width: 59px;
-  height: 89px;
-  object-fit: cover;
+    width: 59px;
+    height: 89px;
+    object-fit: cover;
+    margin-right: 5px;
 }
 .my-profile-desktop-menu {
   gap: var(--dl-space-space-threeunits);
@@ -547,6 +548,15 @@
     gap: var(--dl-space-space-twounits);
   }
 }
+
+@media(max-width: 520px) {
+
+    .my-profile-image {
+        display: none;
+    }
+}
+
+
 @media(max-width: 479px) {
 
   .my-profile-button-container {

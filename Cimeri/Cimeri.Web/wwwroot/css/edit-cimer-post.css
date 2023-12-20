@@ -44,9 +44,10 @@
   justify-content: space-between;
 }
 .edit-cimer-post-image {
-  width: 59px;
-  height: 89px;
-  object-fit: cover;
+    width: 59px;
+    height: 89px;
+    object-fit: cover;
+    margin-right: 5px;
 }
 .edit-cimer-post-desktop-menu {
   gap: var(--dl-space-space-threeunits);
@@ -766,6 +767,15 @@
     gap: var(--dl-space-space-twounits);
   }
 }
+
+@media(max-width: 520px) {
+
+    .edit-cimer-post-image {
+        display: none;
+    }
+}
+
+
 @media(max-width: 479px) {
 
   .edit-cimer-post-button-container {

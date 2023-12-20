@@ -32,9 +32,10 @@
   justify-content: space-between;
 }
 .login-image {
-  width: 59px;
-  height: 89px;
-  object-fit: cover;
+    width: 59px;
+    height: 89px;
+    object-fit: cover;
+    margin-right: 5px;
 }
 .login-desktop-menu {
   gap: var(--dl-space-space-threeunits);
@@ -445,6 +446,15 @@
     gap: var(--dl-space-space-twounits);
   }
 }
+
+@media(max-width: 520px) {
+
+    .login-image {
+        display: none;
+    }
+}
+
+
 @media(max-width: 479px) {
   .login-hero {
     flex: 1;
