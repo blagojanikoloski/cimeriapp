@@ -509,6 +509,10 @@
     .cimer-list-image {
         display: none;
     }
+
+    .cimer-list-desktop-menu {
+        margin: auto;
+    }
 }
 
 

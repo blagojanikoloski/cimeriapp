@@ -698,6 +698,10 @@
     .register-image {
         display: none;
     }
+
+    .register-desktop-menu {
+        margin: auto;
+    }
 }
 
 

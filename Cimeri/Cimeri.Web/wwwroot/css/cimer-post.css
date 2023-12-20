@@ -936,6 +936,10 @@
     .cimer-post-image {
         display: none;
     }
+
+    .cimer-post-desktop-menu {
+        margin: auto;
+    }
 }
 
 

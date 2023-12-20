@@ -621,6 +621,10 @@
         display: none;
     }
 
+    .home-desktop-menu{
+        margin:auto;
+    }
+
 }
 @media(max-width: 479px) {
 

@@ -306,53 +306,61 @@
   gap: var(--dl-space-space-twounits);
   display: flex;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
 }
 .my-profile-text08 {
-  font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
 }
 .my-profile-text09 {
   font-size: 25px;
+  margin-bottom : 25px;
 }
 .my-profile-container4 {
-  gap: var(--dl-space-space-twounits);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
+    gap: var(--dl-space-space-twounits);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 .my-profile-text10 {
-  font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
 }
 .my-profile-text11 {
-  font-size: 25px;
+    font-size: 25px;
+    margin-bottom: 25px;
 }
 .my-profile-container5 {
-  gap: var(--dl-space-space-twounits);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
+    gap: var(--dl-space-space-twounits);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 .my-profile-text12 {
-  font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
 }
 .my-profile-text13 {
-  font-size: 25px;
+    font-size: 25px;
+    margin-bottom: 25px;
 }
 .my-profile-container6 {
-  gap: var(--dl-space-space-twounits);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
+    gap: var(--dl-space-space-twounits);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 .my-profile-text14 {
-  font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
 }
 .my-profile-text15 {
-  font-size: 25px;
+    font-size: 25px;
+    margin-bottom: 25px;
 }
 .my-profile-features {
     width: 100%;
@@ -372,8 +380,6 @@
 .my-profile-container7 {
   width: 100%;
   display: grid;
-  grid-gap: var(--dl-space-space-twounits);
-  grid-template-columns: 8fr 1fr;
 }
 .my-profile-footer {
   width: 100%;
@@ -528,9 +534,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .my-profile-container7 {
-    grid-template-columns: 1fr;
-  }
+
   .my-profile-footer {
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-twounits);
@@ -553,6 +557,10 @@
 
     .my-profile-image {
         display: none;
+    }
+
+    .my-profile-desktop-menu {
+        margin: auto;
     }
 }
 
@@ -602,8 +610,8 @@
     line-height: 24px;
 }
 .content-container {
-    margin-left: auto;
-    margin-right: 20px; /* Adjust the margin as needed */
+    /* margin-left: auto;  */
+
 }
 
 /* Optional: Adjust the button's vertical alignment */

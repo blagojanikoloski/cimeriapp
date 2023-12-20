@@ -773,6 +773,10 @@
     .edit-cimer-post-image {
         display: none;
     }
+
+    .edit-cimer-post-desktop-menu {
+        margin: auto;
+    }
 }
 
 
