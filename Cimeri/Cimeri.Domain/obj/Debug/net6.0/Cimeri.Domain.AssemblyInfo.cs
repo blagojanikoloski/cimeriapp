@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cimeri.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6830897ecc8549ae7ac9916bbe289519ee6564")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cimeri.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cimeri.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

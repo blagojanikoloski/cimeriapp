@@ -66,3 +66,4 @@ C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\De
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\refint\Cimeri.Service.dll
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.pdb
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\ref\Cimeri.Service.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Service\obj\Debug\net6.0\Cimeri.Service.sourcelink.json

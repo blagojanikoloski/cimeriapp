@@ -58,3 +58,4 @@ C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\refint\Cimeri.Repository.dll
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.pdb
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\ref\Cimeri.Repository.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Repository\obj\Debug\net6.0\Cimeri.Repository.sourcelink.json

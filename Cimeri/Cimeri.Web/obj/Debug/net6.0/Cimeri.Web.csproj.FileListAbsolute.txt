@@ -320,3 +320,4 @@ C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Web\obj\Debug\
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Web\obj\Debug\net6.0\Cimeri.Web.pdb
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Web\obj\Debug\net6.0\Cimeri.Web.genruntimeconfig.cache
 C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Web\obj\Debug\net6.0\ref\Cimeri.Web.dll
+C:\Users\Blagoja Nikoloski\Desktop\cimeri\cimeriapp\Cimeri\Cimeri.Web\obj\Debug\net6.0\Cimeri.Web.sourcelink.json
