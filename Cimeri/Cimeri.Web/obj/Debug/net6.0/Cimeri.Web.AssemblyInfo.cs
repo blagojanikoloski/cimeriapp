@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cimeri.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b3d06ff971380243d451967a1ea01dac6e1998f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+621eac82a104a54d6192d42ef40b2a62ced77557")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cimeri.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cimeri.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -142,24 +142,24 @@
                                 <div class="register-container04">
                                     <span class="register-text07">Име</span>
                                     @Html.TextBoxFor(m => m.Name, new { @class = "register-textinput input", autocomplete = "username", aria_required = "true", placeholder = "Име" })
-                                    @Html.ValidationMessageFor(m => m.Name)
+                                    
                                 </div>
                                 <div class="register-container05">
                                     <span class="register-text08">Презиме</span>
                                     @Html.TextBoxFor(m => m.LastName, new { @class = "register-textinput input", autocomplete = "username", aria_required = "true", placeholder = "Презиме" })
-                                    @Html.ValidationMessageFor(m => m.LastName)
+                                    
                                 </div>
                             </div>
                             <div class="register-container06">
                                 <div class="register-container07">
                                     <span class="register-text09">Е-Пошта</span>
                                     @Html.TextBoxFor(m => m.Email, new { @class = "register-textinput input", autocomplete = "username", aria_required = "true", placeholder = "Email" })
-                                    @Html.ValidationMessageFor(m => m.Email)
+                                    
                                 </div>
                                 <div class="register-container08">
                                     <span class="register-text10">Телефонски број</span>
                                     @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "register-textinput input", autocomplete = "username", aria_required = "true", placeholder = "Телефонски број" })
-                                    @Html.ValidationMessageFor(m => m.PhoneNumber)
+                                    
                                 </div>
                             </div>
                             <div class="register-container09">
@@ -170,24 +170,24 @@
                                     new SelectListItem { Text = "Машки", Value = "Male" },
                                     new SelectListItem { Text = "Женски", Value = "Female" }
                                     }, "Избери пол", new { @class = "register-select", aria_required = "true" })
-                                    @Html.ValidationMessageFor(m => m.Gender)
+                                    
                                 </div>
                                 <div class="register-container11">
                                     <span class="register-text12">Години возраст</span>
                                     @Html.TextBoxFor(m => m.Age, new { @class = "register-textinput4 input", type = "number", min = "1", step = "1", autocomplete = "username", aria_required = "true", placeholder = "Години возраст..." })
-                                    @Html.ValidationMessageFor(m => m.Age)
+                                    
                                 </div>
                             </div>
                             <div class="register-container12">
                                 <div class="register-container13">
                                     <span class="register-text13">Лозинка</span>
                                     @Html.PasswordFor(m => m.Password, new { @class = "register-textinput input", autocomplete = "username", aria_required = "true", placeholder = "Лозинка" })
-                                    @Html.ValidationMessageFor(m => m.Password)
+                                    
                                 </div>
                                 <div class="register-container14">
                                     <span class="register-text14">Потврди Лозинка</span>
                                     @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "register-textinput input", autocomplete = "new-password", aria_required = "true", placeholder = "Потврди лозинка" })
-                                    @Html.ValidationMessageFor(m => m.ConfirmPassword)
+                                    
                                 </div>
                             </div>
                         </div>
