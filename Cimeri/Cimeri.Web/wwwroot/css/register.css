@@ -6,7 +6,11 @@
     align-items: center;
     flex-direction: column;
 }
-
+.validation-summary-errors {
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
 .register-hero {
     flex: 1;
     width: 100%;
